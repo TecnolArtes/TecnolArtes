@@ -1,4 +1,4 @@
-## Olá! Eu sou o Diego Brito 👋
+## Olá! Eu sou Diego Brito 👋
 
 [![Si](https://img.shields.io/website?label=TecnolArtes&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://tecnol-artes.comunidades.net/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoe5BQCl1gWbdwP6GN3NukA?sub_confirmation=1)
