@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoe5BQCl1gWbdwP6GN3NukA?sub_confirmation=1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=TecnolArtes&logo=instagram&logoColor=white)](https://www.instagram.com/diegobritold/)
 <div style="display: inline_block">
-<img src="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" height=10% width= 10% alt="Logo"/>
+<img src="https://i.pinimg.com/736x/0c/ea/84/0cea842d30cae99ee4e5772308fddbf8.jpg" height=10% width= 10% alt="Logo"/>
 </div><br/>
 
 
