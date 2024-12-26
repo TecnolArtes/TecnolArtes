@@ -1,10 +1,5 @@
 ## Olá! Eu sou Diego Brito 👋
-
-[![Si](https://img.shields.io/website?label=TecnolArtes&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://tecnol-artes.comunidades.net/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoe5BQCl1gWbdwP6GN3NukA?sub_confirmation=1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=TecnolArtes&logo=instagram&logoColor=white)](https://www.instagram.com/diegobritold/)
 <div style="display: inline_block">
-[![codepen]<img src="https://i.pinimg.com/736x/0c/ea/84/0cea842d30cae99ee4e5772308fddbf8.jpg" height=5% width= 5% alt="Logo"/>(https://www.instagram.com/diegobritold/)
   <a href="https://codepen.io/tecnol-artes/pens/public"> <img src="https://i.pinimg.com/736x/0c/ea/84/0cea842d30cae99ee4e5772308fddbf8.jpg" height=5% width= 5% alt="Logo"/> </a>
 </div><br/>
 
