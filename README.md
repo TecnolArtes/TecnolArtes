@@ -1,4 +1,4 @@
-OLÁ! ME CHAMO DIEGO BRITO.
+OLÁ! MEU NOME É DIEGO BRITO.
 <div style="display: inline_block">  
    <a href="https://www.instagram.com/diegobritold/"> <img src="https://i.pinimg.com/736x/c8/45/0b/c8450bfb2b2e22ddb4cecea9f96baef1.jpg" height=5% width= 5% alt="Logo"/> </a>
    <a href="https://www.facebook.com/diegobritotop"> <img src="https://i.pinimg.com/736x/83/43/46/83434653023e0dc7d667b7f3aececfca.jpg" height=5% width= 5% alt="Logo"/> </a>
