@@ -3,7 +3,7 @@
 [![Si](https://img.shields.io/website?label=TecnolArtes&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://tecnol-artes.comunidades.net/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoe5BQCl1gWbdwP6GN3NukA?sub_confirmation=1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=TecnolArtes&logo=instagram&logoColor=white)](https://www.instagram.com/diegobritold/)
-[![Codepen](https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico)](https://codepen.io/tecnol-artes)
+[(https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico)](https://codepen.io/tecnol-artes)
 
 
 ## Ferramentas de uso para Programação.
