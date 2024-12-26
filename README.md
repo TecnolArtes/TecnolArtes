@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=TecnolArtes&logo=instagram&logoColor=white)](https://www.instagram.com/diegobritold/)
 <div style="display: inline_block">
 [![codepen]<img src="https://i.pinimg.com/736x/0c/ea/84/0cea842d30cae99ee4e5772308fddbf8.jpg" height=5% width= 5% alt="Logo"/>(https://www.instagram.com/diegobritold/)
+  <a href="https://codepen.io/tecnol-artes/pens/public"> <img src="https://i.pinimg.com/736x/0c/ea/84/0cea842d30cae99ee4e5772308fddbf8.jpg" height=5% width= 5% alt="Logo"/> </a>
 </div><br/>
 
 
